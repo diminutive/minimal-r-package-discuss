@@ -1,2 +1,32 @@
 # minimal-r-package-discuss
 Discussion place for R packages built with "extras", special libraries and bindings. 
+
+
+The [GitHub diminutive organization](https://github.com/diminutive) holds a collection of *minimal R packages*, designed to illustrate special cases. 
+
+Use this repo to discuss issues, and contribute your own examples.
+
+The repos grew naturally out of informal and "scatter gun" testing and exploration. When I finally learn how to get something to work I like to have a tiny example, because *I know it worked once* and an actual package is good proof. 
+
+Ideally these might be canonical, the perfect starting point if you need *library IJK* in an R package - just fork it, test it, and starting specializing it. These examples are definitely not good enough for that, yet. 
+
+
+Currently diminutive has these examples. They vary in quality and currency. (A definite problem right now is that some will point to the wrong organization for CI badges and installation instructions, bear with me). 
+
+* [earcut.cpp](earcut.cpp.git) Minimal C++ bindings of Mapbox earcut.hpp for R
+* [rgdalwinhdf4](https://github.com/diminutive/rgdalwindhdf4.git) Build rgdal on Windows with Appveyor, and read HDF4
+* [gdalosx](https://github.com/diminutive/gdalosx.git) Test a system package install of GDAL on OSX with Travis
+* [ncdep](https://github.com/diminutive/ncdep.git) CI testing for NetCDF with R
+* [depsf](https://github.com/diminutive/depsf.git) Minimal R package importing sf with CI testing on Travis
+* [gdalmin](https://github.com/diminutive/gdalmin.git) Minimal R package with bindings to GDAL, built from source a la rgdal
+* [anc](https://github.com/diminutive/anc.git) tiny minimal Rcpp NetCDF package
+* [depbio](https://github.com/diminutive/depbio.git) minimal R package with import from a Bioconductor package
+* [brwsrchk](https://github.com/diminutive/brwsrchk.git) Does R CMD check warn / error on browser() calls?
+* [rglmin](https://github.com/diminutive/rglmin.git) minimal R package importing rgl
+
+These are probably not worth mentioning, see gdalmin and gdalosx and rgdalwinhdf4 as more current examples. 
+
+* [hdf4.rhub](https://github.com/diminutive/hdf4.rhub.git)
+* [gdal.rhub](https://github.com/diminutive/gdal.rhub.git)
+* [hdf5.rhub](https://github.com/diminutive/hdf5.rhub.git)
+

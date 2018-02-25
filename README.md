@@ -12,7 +12,6 @@ These examples vary in quality and currency. (A definite problem right now is th
 
 Package | Description
 -------------------------------------------------------------- | ----------------------------------
-[anc](https://github.com/diminutive/anc.git)                   | tiny minimal Rcpp NetCDF package
 [brwsrchk](https://github.com/diminutive/brwsrchk.git)         | Does R CMD check warn / error on browser() calls?
 [depbioc](https://github.com/diminutive/depbioc.git)           | minimal R package with import from a Bioconductor package
 [depsf](https://github.com/diminutive/depsf.git)               | Minimal R package importing sf with CI testing on Travis
@@ -24,9 +23,9 @@ Package | Description
 [rgdalwinhdf4](https://github.com/diminutive/rgdalwinhdf4.git) | Build rgdal on Windows with Appveyor, and read HDF4
 [rglmin](https://github.com/diminutive/rglmin.git)             | minimal R package importing rgl
 
-These are probably not worth mentioning, see gdalmin and gdalosx and rgdalwinhdf4 as more current examples. 
+These are probably not worth mentioning, see gdalmin and gdalosx and rgdalwinhdf4 as more current examples for gdal stuff. 
 
-[gdal.rhub](https://github.com/diminutive/gdal.rhub.git), [hdf4.rhub](https://github.com/diminutive/hdf4.rhub.git), [hdf5.rhub](https://github.com/diminutive/hdf5.rhub.git)
+[gdal.rhub](https://github.com/diminutive/gdal.rhub.git), [hdf4.rhub](https://github.com/diminutive/hdf4.rhub.git), [hdf5.rhub](https://github.com/diminutive/hdf5.rhub.git), [anc](https://github.com/diminutive/anc.git) 
 
 
 ## Why maintain minimal packages? 

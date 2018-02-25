@@ -41,3 +41,17 @@ The repos grew naturally out of informal and "scatter gun" testing and explorati
 
 Ideally these might be canonical, the perfect starting point if you need *library IJK* in an R package - just fork it, test it, and starting specializing it. These examples are definitely not good enough for that, yet. 
 
+## Other minimal R package resources
+
+https://github.com/yihui/rmini
+
+http://kbroman.org/pkg_primer/pages/minimal.html
+
+https://github.com/b4winckler/reverse
+
+https://github.com/yixuan/miniGPU
+
+https://github.com/metacran/mason.rpkg
+
+https://github.com/metacran/mason
+

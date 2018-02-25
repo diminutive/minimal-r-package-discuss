@@ -15,7 +15,7 @@ These examples vary in quality and currency. (A definite problem right now is th
 * [depbioc](https://github.com/diminutive/depbioc.git) minimal R package with import from a Bioconductor package
 * [depsf](https://github.com/diminutive/depsf.git) Minimal R package importing sf with CI testing on Travis
 * [dputtruncat](https://github.com/diminutive/dputtruncat.git) R package to show dput truncation
-* [earcut.cpp](earcut.cpp.git) Minimal C++ bindings of Mapbox earcut.hpp for R
+* [earcut.cpp](https://github.com/diminutive/earcut.cpp.git) Minimal C++ bindings of Mapbox earcut.hpp for R
 * [gdalmin](https://github.com/diminutive/gdalmin.git) Minimal R package with bindings to GDAL, built from source a la rgdal
 * [gdalosx](https://github.com/diminutive/gdalosx.git) Test a system package install of GDAL on OSX with Travis
 * [ncdep](https://github.com/diminutive/ncdep.git) CI testing for NetCDF with R

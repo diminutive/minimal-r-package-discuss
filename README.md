@@ -12,16 +12,23 @@ These examples vary in quality and currency. (A definite problem right now is th
 
 Package | Description
 -------------------------------------------------------------- | ----------------------------------
-[brwsrchk](https://github.com/diminutive/brwsrchk.git)         | Does R CMD check warn / error on browser() calls?
 [depbioc](https://github.com/diminutive/depbioc.git)           | minimal R package with import from a Bioconductor package
 [depsf](https://github.com/diminutive/depsf.git)               | Minimal R package importing sf with CI testing on Travis
-[dputtruncat](https://github.com/diminutive/dputtruncat.git)   | R package to show dput truncation
 [earcut.cpp](https://github.com/diminutive/earcut.cpp.git)     | Minimal C++ bindings of Mapbox earcut.hpp for R
 [gdalmin](https://github.com/diminutive/gdalmin.git)           | Minimal R package with bindings to GDAL, built from source a la rgdal
 [gdalosx](https://github.com/diminutive/gdalosx.git)           | Test a system package install of GDAL on OSX with Travis
 [ncdep](https://github.com/diminutive/ncdep.git)               | CI testing for NetCDF with R
 [rgdalwinhdf4](https://github.com/diminutive/rgdalwinhdf4.git) | Build rgdal on Windows with Appveyor, and read HDF4
 [rglmin](https://github.com/diminutive/rglmin.git)             | minimal R package importing rgl
+
+## Miscellaneous package tests and other stuff
+
+These packages were created to prove a point, or demonstrate something in the *works on x machine* sense
+
+Package | Description
+-------------------------------------------------------------- | ----------------------------------
+[brwsrchk](https://github.com/diminutive/brwsrchk.git)         | Does R CMD check warn / error on browser() calls?
+[dputtruncat](https://github.com/diminutive/dputtruncat.git)   | R package to show dput truncation
 
 These are probably not worth mentioning, see gdalmin and gdalosx and rgdalwinhdf4 as more current examples for gdal stuff. 
 
@@ -30,7 +37,7 @@ These are probably not worth mentioning, see gdalmin and gdalosx and rgdalwinhdf
 
 ## Why maintain minimal packages? 
 
-The repos grew naturally out of informal and "scatter gun" testing and exploration. When I finally learn how to get something to work I like to have a tiny example, because *I know it worked once* and an actual package is good proof. It's extremely easy to move on from that simple example, complicate things and get lost - and then you're git hell or worse. It's also hard to fork a functional package and strip it back to just that part you need, it's exactly this *getting started* core that I'm often looking for. 
+The repos grew naturally out of informal and "scatter gun" testing and exploration. When I finally learn how to get something to work I like to have a tiny example, because *I know it worked once* and an actual package is good proof. It's extremely easy to move on from that simple example, complicate things and get lost - and then you're in git hell or worse. It's also hard to fork a functional package and strip it back to just that part you need, it's exactly this *getting started* core that I'm often looking for. 
 
 Ideally these might be canonical, the perfect starting point if you need *library IJK* in an R package - just fork it, test it, and starting specializing it. These examples are definitely not good enough for that, yet. 
 

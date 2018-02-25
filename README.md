@@ -8,17 +8,18 @@ Use this repo to [discuss issues](https://github.com/diminutive/minimal-r-packag
 
 ## Minimal R packages
 
-Currently diminutive has these examples. They vary in quality and currency. (A definite problem right now is that some will point to the wrong organization for CI badges and installation instructions, bear with me). 
+These examples vary in quality and currency. (A definite problem right now is that some will point to the wrong organization for CI badges and installation instructions - please submit a PR if you use one and make updates!). 
 
+* [anc](https://github.com/diminutive/anc.git) tiny minimal Rcpp NetCDF package
+* [brwsrchk](https://github.com/diminutive/brwsrchk.git) Does R CMD check warn / error on browser() calls?
+* [depbioc](https://github.com/diminutive/depbioc.git) minimal R package with import from a Bioconductor package
+* [depsf](https://github.com/diminutive/depsf.git) Minimal R package importing sf with CI testing on Travis
+* [dputtruncat](https://github.com/diminutive/dputtruncat.git) R package to show dput truncation
 * [earcut.cpp](earcut.cpp.git) Minimal C++ bindings of Mapbox earcut.hpp for R
-* [rgdalwinhdf4](https://github.com/diminutive/rgdalwindhdf4.git) Build rgdal on Windows with Appveyor, and read HDF4
+* [gdalmin](https://github.com/diminutive/gdalmin.git) Minimal R package with bindings to GDAL, built from source a la rgdal
 * [gdalosx](https://github.com/diminutive/gdalosx.git) Test a system package install of GDAL on OSX with Travis
 * [ncdep](https://github.com/diminutive/ncdep.git) CI testing for NetCDF with R
-* [depsf](https://github.com/diminutive/depsf.git) Minimal R package importing sf with CI testing on Travis
-* [gdalmin](https://github.com/diminutive/gdalmin.git) Minimal R package with bindings to GDAL, built from source a la rgdal
-* [anc](https://github.com/diminutive/anc.git) tiny minimal Rcpp NetCDF package
-* [depbio](https://github.com/diminutive/depbio.git) minimal R package with import from a Bioconductor package
-* [brwsrchk](https://github.com/diminutive/brwsrchk.git) Does R CMD check warn / error on browser() calls?
+* [rgdalwinhdf4](https://github.com/diminutive/rgdalwindhdf4.git) Build rgdal on Windows with Appveyor, and read HDF4
 * [rglmin](https://github.com/diminutive/rglmin.git) minimal R package importing rgl
 
 

@@ -19,7 +19,7 @@ These examples vary in quality and currency. (A definite problem right now is th
 * [gdalmin](https://github.com/diminutive/gdalmin.git) Minimal R package with bindings to GDAL, built from source a la rgdal
 * [gdalosx](https://github.com/diminutive/gdalosx.git) Test a system package install of GDAL on OSX with Travis
 * [ncdep](https://github.com/diminutive/ncdep.git) CI testing for NetCDF with R
-* [rgdalwinhdf4](https://github.com/diminutive/rgdalwindhdf4.git) Build rgdal on Windows with Appveyor, and read HDF4
+* [rgdalwinhdf4](https://github.com/diminutive/rgdalwinhdf4.git) Build rgdal on Windows with Appveyor, and read HDF4
 * [rglmin](https://github.com/diminutive/rglmin.git) minimal R package importing rgl
 
 

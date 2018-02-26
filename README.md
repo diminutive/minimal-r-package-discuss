@@ -45,6 +45,10 @@ Ideally these might be canonical, the perfect starting point if you need *librar
 
 https://github.com/ropenscilabs/tic  (this one's fantastic, stands out as minimal example gold mine on its own)
 
+https://github.com/rstudio/bookdown-demo  (minimal bookdown)
+
+https://github.com/rstudio/blogdown (Blogdown will create a functional project for you)
+
 https://github.com/yihui/rmini
 
 http://kbroman.org/pkg_primer/pages/minimal.html

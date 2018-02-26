@@ -43,6 +43,8 @@ Ideally these might be canonical, the perfect starting point if you need *librar
 
 ## Other minimal R package resources
 
+https://github.com/ropenscilabs/tic  (this one's fantastic, stands out as minimal example gold mine on its own)
+
 https://github.com/yihui/rmini
 
 http://kbroman.org/pkg_primer/pages/minimal.html

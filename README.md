@@ -43,6 +43,8 @@ Ideally these might be canonical, the perfect starting point if you need *librar
 
 ## Other minimal R package resources
 
+https://github.com/craigcitro/r-travis/wiki/Recipes a bunch of examples for Travis-CI
+
 https://github.com/ropenscilabs/tic  (this one's fantastic, stands out as minimal example gold mine on its own)
 
 https://github.com/rstudio/bookdown-demo  (minimal bookdown)
